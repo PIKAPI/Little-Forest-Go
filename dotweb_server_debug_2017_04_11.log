@@ -1,0 +1,24 @@
+2017-04-11 16:38:55.386369 Dotweb:Router:RegisterRoute success [GET] [/index]
+2017-04-11 16:38:55.386841 Dotweb:Router:RegisterRoute success [GET] [/dotweb/debug/pprof/:key]
+2017-04-11 16:38:55.386963 Dotweb:Router:RegisterRoute success [GET] [/dotweb/debug/freemem]
+2017-04-11 16:38:55.387086 Dotweb:Router:RegisterRoute success [GET] [/dotweb/state]
+2017-04-11 16:38:55.387212 Dotweb:Router:RegisterRoute success [GET] [/dotweb/query/:key]
+2017-04-11 16:38:55.387331 Dotweb:StartServer[:3000] begin
+2017-04-11 16:40:16.671172 Dotweb:Router:RegisterRoute success [GET] [/index]
+2017-04-11 16:40:16.671425 Dotweb:Router:RegisterRoute success [GET] [/dotweb/debug/pprof/:key]
+2017-04-11 16:40:16.67149 Dotweb:Router:RegisterRoute success [GET] [/dotweb/debug/freemem]
+2017-04-11 16:40:16.671572 Dotweb:Router:RegisterRoute success [GET] [/dotweb/state]
+2017-04-11 16:40:16.67166 Dotweb:Router:RegisterRoute success [GET] [/dotweb/query/:key]
+2017-04-11 16:40:16.671745 Dotweb:StartServer[:3000] begin
+2017-04-11 16:43:16.671826 Dotweb:Router:RegisterRoute success [GET] [/index]
+2017-04-11 16:43:16.672092 Dotweb:Router:RegisterRoute success [GET] [/dotweb/debug/pprof/:key]
+2017-04-11 16:43:16.672154 Dotweb:Router:RegisterRoute success [GET] [/dotweb/debug/freemem]
+2017-04-11 16:43:16.672213 Dotweb:Router:RegisterRoute success [GET] [/dotweb/state]
+2017-04-11 16:43:16.672283 Dotweb:Router:RegisterRoute success [GET] [/dotweb/query/:key]
+2017-04-11 16:43:16.672369 Dotweb:StartServer[:3000] begin
+2017-04-11 16:46:21.907968 Dotweb:Router:RegisterRoute success [GET] [/index]
+2017-04-11 16:46:21.908301 Dotweb:Router:RegisterRoute success [GET] [/dotweb/debug/pprof/:key]
+2017-04-11 16:46:21.908404 Dotweb:Router:RegisterRoute success [GET] [/dotweb/debug/freemem]
+2017-04-11 16:46:21.908527 Dotweb:Router:RegisterRoute success [GET] [/dotweb/state]
+2017-04-11 16:46:21.908649 Dotweb:Router:RegisterRoute success [GET] [/dotweb/query/:key]
+2017-04-11 16:46:21.908764 Dotweb:StartServer[:3000] begin
